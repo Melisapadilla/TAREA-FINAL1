@@ -7,7 +7,9 @@ PROBLEMA 2:
 
 
 PROBLEMA 3:
+
 Para este ejercicio, se usó la función .convex_hull para generar el conjunto del contorno de los ríos de Rusia. Luego se calculó la matriz de distancias entre largeAirports y systems_hulls. Finalmente se graficó el convex hull y los puntos en un mapa y se buscó los puntos más cercanos y más lejanos de los aeropuertos para ubicarlos en el mapa.
 
 PROBLEMA 4:
+
 Para este ejercició, seleccionamos el río Lena) y calculamos su valor mínimo, el cual será utilizado para definir el tamaño del buffer. Luego buscamos obtener los aeropuertos pequeños que se encontraran dentro del buffer del río 'Lena' y se hizo lo mismo con los otros ríos.
