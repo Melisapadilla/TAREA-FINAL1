@@ -4,9 +4,12 @@ Resolución de los ejercicios con GeoDataFrame:
 https://colab.research.google.com/drive/1vI1jtraXroBpKILGIT_ZDUVCVo04bY-y#scrollTo=uxr0hCJ-eEV7
 
 Resolución de los problemas del 1 al 4.
-PROBLEMA 1: Para este caso, primero se obtuvo los datos de los aeropuertos grandes de Rusia y de los puertos marítimos del país. Luego, se calcula la matriz de distancias entre todos los aeropuertos grandes y los puertos, y se selecciona una fila de la matriz para encontrar la distancia mínima. Finalmente, se grafica el mapa de Rusia, mostrando la ubicación del aeropuerto y puertos con la menor distancia entre sí.
-PROBLEMA 2:
 
+
+PROBLEMA 1: Para este caso, primero se obtuvo los datos de los aeropuertos grandes de Rusia y de los puertos marítimos del país. Luego, se calcula la matriz de distancias entre todos los aeropuertos grandes y los puertos, y se selecciona una fila de la matriz para encontrar la distancia mínima. Finalmente, se grafica el mapa de Rusia, mostrando la ubicación del aeropuerto y puertos con la menor distancia entre sí.
+
+
+PROBLEMA 2:En este ejercicio, utilizamos los rios y aeropuertos largos de Rusia. Luego, se calculó la matriz de distancias entre todos los aeropuertos grandes y los rios, y se seleccionó una fila de la matriz para encontrar la distancia mínima y máxima entre un aeropuerto y el rio Lena. Finalmente, se graficó el mapa de Rusia, mostrando la ubicación del aeropuerto más lejano y cercano al río Lena.
 
 
 
